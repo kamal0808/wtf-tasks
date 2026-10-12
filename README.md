@@ -5,7 +5,7 @@ WTF's public project repo: tasks and the Neki ledger for [WTF](https://wtf.topc.
 - [Issues](https://github.com/kamal0808/wtf-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of WTF = your Neki / all Neki there.
 
-The code is in a separate private repo.
+Code: [kamal0808/wtf](https://github.com/kamal0808/wtf), live at [wtf.topc.social](https://wtf.topc.social). Private for now: you get access when you join the project.
 
 ## How it works
 
